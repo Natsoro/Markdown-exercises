@@ -26,11 +26,26 @@ _Kursywę_ robi *się* poprzez jedną podłogę lub jedną gwiazdkę.
 
 <!-- Example of headers -->
 
+# Hush i spacja to info dla MD, że to nagłówek  
+## Tutaj jest podroździał poprzez "hush" x2 do 6.  
+
 <!-- Example of external link -->
+
+Jak sie robi odysłacze  
+
+[Webpage in localization](https://google.com/)
 
 <!-- Example of link to another file -->
 
+[Additional information](Reference.md)
+
 <!-- Example of an image -->
+
+![SVG image from Internet](./images/Firefox.jpg "Firefox logo")
+
+![pieseł](https://picsum.photos/id/237/200/300 "Pieseł")
+
+![koteły](https://upload.wikimedia.org/wikipedia/commons/3/32/Collage_of_Six_Cats-03.JPG "Koteły")
 
 <!-- Example of an image with hover text -->
 
