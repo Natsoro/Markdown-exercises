@@ -1,15 +1,13 @@
 <!-- Example of title -->
-My exercise in Markdown
+My exercise in Markdown<!-- omit in toc -->
 =======================
 
 <!-- Here comes the table of content -->
 
-Table of Content
+Table of Contens:
 
 - [Nagłówek 1](#nagłówek-1)
-- [Nagłówek 2](#nagłówek-2)
-
-  
+  - [Nagłówek 2](#nagłówek-2)
 
 
 <!-- Example of paragraph of text with line break -->
@@ -75,9 +73,11 @@ Jak sie robi odysłacze
 
 <!-- Example of table -->
 
-Column | Column 2 | Column 3  
---- | --- | ---
-Row | Row 2 | Row 3
-Row I | Row II | Row III
+| Column | Column 2 | Column 3 |
+| ------ | -------- | -------- |
+| Row    | Row 2    | Row 3    |
+| Row I  | Row II   | Row III  |
+
+Tekst po tabelce musi mieć jeen pusty wiersz.
 
 <!-- Paragraph after table -->
