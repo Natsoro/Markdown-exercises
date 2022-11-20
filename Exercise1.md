@@ -22,7 +22,7 @@ Paragraf może być bardzo długi i nie złamie się dotąd dopuki sama tego nie
 
 _Kursywę_ robi *się* poprzez jedną podłogę lub jedną gwiazdkę.
 
-~~Przekreślenie~~
+~~Przekreślenie~~ "znakami falującymi"x2 przed i po.
 
 <!-- Example of headers -->
 
