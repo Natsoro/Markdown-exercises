@@ -4,6 +4,14 @@ My exercise in Markdown
 
 <!-- Here comes the table of content -->
 
+Table of Content
+
+- [Nagłówek 1](#nagłówek-1)
+- [Nagłówek 2](#nagłówek-2)
+
+  
+
+
 <!-- Example of paragraph of text with line break -->
 Tutaj ma byc jakis tekst.  
 By przenieść do drugiej linijki dajemy spację x2 i Enter 
@@ -26,8 +34,12 @@ _Kursywę_ robi *się* poprzez jedną podłogę lub jedną gwiazdkę.
 
 <!-- Example of headers -->
 
-# Hush i spacja to info dla MD, że to nagłówek  
-## Tutaj jest podroździał poprzez "hush" x2 do 6.  
+# Nagłówek 1
+
+ Hush i spacja to info dla MD, że to nagłówek  
+ ## Nagłówek 2
+
+Tutaj jest podroździał poprzez "hush" x2 do 6.  
 
 <!-- Example of external link -->
 
@@ -45,9 +57,9 @@ Jak sie robi odysłacze
 
 ![pieseł](https://picsum.photos/id/237/200/300 "Pieseł")
 
-![koteły](https://upload.wikimedia.org/wikipedia/commons/3/32/Collage_of_Six_Cats-03.JPG "Koteły")
-
 <!-- Example of an image with hover text -->
+
+![koteły](https://upload.wikimedia.org/wikipedia/commons/3/32/Collage_of_Six_Cats-03.JPG "Koteły")
 
 <!-- Example of equation or inline code -->
 
@@ -62,5 +74,10 @@ Jak sie robi odysłacze
 <!-- Example of numbered list -->
 
 <!-- Example of table -->
+
+Column | Column 2 | Column 3  
+--- | --- | ---
+Row | Row 2 | Row 3
+Row I | Row II | Row III
 
 <!-- Paragraph after table -->
