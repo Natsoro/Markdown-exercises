@@ -8,6 +8,7 @@ Table of Contens:
 
 - [Nagłówek 1](#nagłówek-1)
   - [Nagłówek 2](#nagłówek-2)
+  - [Jak sie robi odysłacze](#jak-sie-robi-odysłacze)
 
 
 <!-- Example of paragraph of text with line break -->
@@ -41,7 +42,7 @@ Tutaj jest podroździał poprzez "hush" x2 do 6.
 
 <!-- Example of external link -->
 
-Jak sie robi odysłacze  
+## Jak sie robi odysłacze  
 
 [Webpage in localization](https://google.com/)
 
@@ -78,6 +79,6 @@ Jak sie robi odysłacze
 | Row    | Row 2    | Row 3    |
 | Row I  | Row II   | Row III  |
 
-Tekst po tabelce musi mieć jeen pusty wiersz.
+Tekst po tabelce musi mieć jeden pusty wiersz.
 
 <!-- Paragraph after table -->
