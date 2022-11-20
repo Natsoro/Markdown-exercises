@@ -5,15 +5,24 @@ My exercise in Markdown
 <!-- Here comes the table of content -->
 
 <!-- Example of paragraph of text with line break -->
-Tutaj ma być jakiś tekst.  
+Tutaj ma byc jakis tekst.  
+By przenieść do drugiej linijki dajemy spację x2 i Enter 
 
-I kolejna linijka tekstu.  
+__I kolejna linijka tekstu.__  
 
 <!-- Example of another paragraph -->
 
+Paragraf może być bardzo długi i nie złamie się dotąd dopuki sama tego nie zrobię powyższymi możliwościami.
+
 <!-- Example of bold -->
 
+**Pogrubienie** __sie__ za pomocą *x2 lub _x2
+
 <!-- Example of italic  -->
+
+_Kursywę_ robi *się* poprzez jedną podłogę lub jedną gwiazdkę.
+
+~~Przekreślenie~~
 
 <!-- Example of headers -->
 
