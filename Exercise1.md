@@ -6,9 +6,29 @@ My exercises in Markdown<!-- omit in toc -->
 
 Table of Contens:
 
-- [Nagłówek 1](#nagłówek-1)
-  - [Nagłówek 2](#nagłówek-2)
-  - [Jak sie robi odysłacze](#jak-sie-robi-odysłacze)
+- [How to do a paragraph?](#how-to-do-a-paragraph)
+  - [It's another paragraph](#its-another-paragraph)
+  - [How to bold a paragraph?](#how-to-bold-a-paragraph)
+  - [How to italic a paragraph?](#how-to-italic-a-paragraph)
+  - [How to do strikethrough?](#how-to-do-strikethrough)
+- [How to do perfect headers?](#how-to-do-perfect-headers)
+  - [Header No. 2](#header-no-2)
+    - [Header No. 3](#header-no-3)
+      - [Header No. 4](#header-no-4)
+        - [Header No. 5](#header-no-5)
+          - [Header No. 6](#header-no-6)
+- [How to do external link?](#how-to-do-external-link)
+- [How to link to another file?](#how-to-link-to-another-file)
+- [Images](#images)
+  - [This is how to do hover text](#this-is-how-to-do-hover-text)
+- [Equation](#equation)
+- [How to do a block of code in MD?](#how-to-do-a-block-of-code-in-md)
+- [How to do a code highlighting?](#how-to-do-a-code-highlighting)
+- [How to do a quote?](#how-to-do-a-quote)
+- [How to do bullet list?](#how-to-do-bullet-list)
+- [How to do numbered list?](#how-to-do-numbered-list)
+- [How to do a table?](#how-to-do-a-table)
+
 
 
 <!-- Example of paragraph of text with line break -->
