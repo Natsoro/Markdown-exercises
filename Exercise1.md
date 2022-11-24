@@ -93,9 +93,32 @@ It's example of image from the Internet
 
 <!-- Example of equation or inline code -->
 
+# Equation
+
+```
+2x-10=12
+```
+
 <!-- Example of a block of code -->
 
+# How to do a block of code in MD?
+
+This is a JS example.
+
+```javascript
+const test = "Hello";
+console.log(test);
+```
+
 <!-- Example of code highlighting -->
+
+# How to do a code highlighting?
+
+```javascript
+function test() {
+console.log("look ma`, no spaces");
+}
+```
 
 <!-- Example of quote -->
 
@@ -112,7 +135,7 @@ This is bullet list:
 * Milk  
 * Bread  
 * Eggs
-* Chocolate
+* Chocolate  
 
 <!-- Example of numbered list -->
 
