@@ -59,21 +59,35 @@ _See it in the code._
 
 <!-- Example of external link -->
 
-## Jak sie robi odysłacze  
+# How to do external link? 
+
+It's example of external link - Google search.
 
 [Webpage in localization](https://google.com/)
 
 <!-- Example of link to another file -->
 
-[Additional information](Reference.md)
+# How to link to another file?
+
+It's example of link to another file named "Reference".
+
+[Reference](Reference.md)
 
 <!-- Example of an image -->
 
-![SVG image from Internet](./images/Firefox.jpg "Firefox logo")
+# Images
 
-![pieseł](https://picsum.photos/id/237/200/300 "Pieseł")
+It's example of image from the folder.  
+
+![SVG image from Internet](./images/Firefox.jpg "Firefox logo")  
+
+It's example of image from the Internet
+
+![Pieseł](https://picsum.photos/id/237/200/300 "Pieseł")
 
 <!-- Example of an image with hover text -->
+
+## This is how to do hover text
 
 ![koteły](https://upload.wikimedia.org/wikipedia/commons/3/32/Collage_of_Six_Cats-03.JPG "Koteły")
 
@@ -85,17 +99,40 @@ _See it in the code._
 
 <!-- Example of quote -->
 
+# How to do a quote?
+
+RM said:  
+> I live so I love.
+
 <!-- Example of bullet list -->
+
+# How to do bullet list?
+
+This is bullet list:  
+* Milk  
+* Bread  
+* Eggs
+* Chocolate
 
 <!-- Example of numbered list -->
 
+# How to do numbered list?
+
+This is numbered list:  
+1. Plan
+2. Buy
+3. Pack up
+4. Go on holidays
+
 <!-- Example of table -->
 
-| Column | Column 2 | Column 3 |
-| ------ | -------- | -------- |
-| Row    | Row 2    | Row 3    |
-| Row I  | Row II   | Row III  |
+# How to do a table?
 
-Tekst po tabelce musi mieć jeden pusty wiersz.
+| Column1 | Column 2 | Column 3 |
+| --------| ---------| -------- |
+| Row 1   | Row 2    | Row 3    |
+| Row I   | Row II   | Row III  |
 
 <!-- Paragraph after table -->
+
+The text after the table must have one empty line.
