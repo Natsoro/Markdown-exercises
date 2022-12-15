@@ -124,6 +124,10 @@ It's example of image from the Internet
 2x-10=12
 ```
 
+    2+2=4
+
+Another way to do block of code is adding 4 spaces.
+
 <!-- Example of a block of code -->
 
 # How to do a block of code in MD?
@@ -136,10 +140,6 @@ console.log(test);
 ```
 
     const test = "Hello";console.log(test);
-
-Another way to do block of code is adding 4 spaces.
-
-
 
 <!-- Example of code highlighting -->
 
