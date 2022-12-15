@@ -171,10 +171,10 @@ This is numbered list:
 
 # How to do a table?
 
-| Column1 | Column 2 | Column 3 |
-| --------| ---------| -------- |
-| Row 1   | Row 2    | Row 3    |
-| Row I   | Row II   | Row III  |
+| Column1   | Column 2    | Column 3  |
+| :-------- | :---------: | --------: |
+| Row 1     | Row 2       | Row 3     |
+| Row I     | Row II      | Row III   |
 
 <!-- Paragraph after table -->
 
