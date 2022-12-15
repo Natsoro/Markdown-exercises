@@ -45,6 +45,11 @@ To move a paragraph to the second line, press space twice and Enter once.
 
 A paragraph can be very long and will not break until I do it myself with the above possibilities. You see? The paragraph is still not broken because I didn't use space (x2) and enter.
 
+
+Adding a blank line (enter twice) makes a new paragraph.
+Adding two spaces to the end of a line (plus one Enter) makes a new line without a new paragraph.  
+I can see it now.
+
 <!-- Example of bold -->
 
 ## How to bold a paragraph?
@@ -175,8 +180,8 @@ This is numbered list:
 | :-------- | :---------: | --------: |
 | Row 1     | Row 2       | Row 3     |
 | Row I     | Row II      | Row III   |
-| [Google Browser](https://www.google.com/) | ``` <p>I really like using Markdown.</p> ``` | **This is ex. of bold text**
+| [Google Browser](https://www.google.com/) | ``` <p>I really like using Markdown.</p> ``` | **This is ex. of bold text** |
 
 <!-- Paragraph after table -->
-
+`
 The text after the table must have one empty line.
