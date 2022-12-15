@@ -135,6 +135,12 @@ const test = "Hello";
 console.log(test);
 ```
 
+    const test = "Hello";console.log(test);
+
+Another way to do block of code is adding 4 spaces.
+
+
+
 <!-- Example of code highlighting -->
 
 # How to do a code highlighting?
