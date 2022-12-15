@@ -175,6 +175,7 @@ This is numbered list:
 | :-------- | :---------: | --------: |
 | Row 1     | Row 2       | Row 3     |
 | Row I     | Row II      | Row III   |
+| [Google Browser](https://www.google.com/) | ``` <p>I really like using Markdown.</p> ``` | **This is ex. of bold text**
 
 <!-- Paragraph after table -->
 
