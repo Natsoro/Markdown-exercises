@@ -1,5 +1,5 @@
 <!-- Example of title -->
-My exercises in Markdown<!-- omit in toc -->
+The exercises in Markdown<!-- omit in toc -->
 =======================
 
 <!-- Here comes the table of content -->
@@ -7,7 +7,7 @@ My exercises in Markdown<!-- omit in toc -->
 Table of Contens:
 
 - [How to do a paragraph?](#how-to-do-a-paragraph)
-  - [It's another paragraph](#its-another-paragraph)
+  - [It is another paragraph](#it-is-another-paragraph)
   - [How to bold a paragraph?](#how-to-bold-a-paragraph)
   - [How to italic a paragraph?](#how-to-italic-a-paragraph)
   - [How to do strikethrough?](#how-to-do-strikethrough)
@@ -29,19 +29,17 @@ Table of Contens:
 - [How to do numbered list?](#how-to-do-numbered-list)
 - [How to do a table?](#how-to-do-a-table)
 
-
-
 <!-- Example of paragraph of text with line break -->
 
 # How to do a paragraph?
 
 This is a paragraph.  
 
-To move a paragraph to the second line, press space twice and Enter once. 
+Press space twice and Enrter once to move a paragraph to the next line.  
 
 <!-- Example of another paragraph -->
 
-## It's another paragraph
+## It is another paragraph
 
 A paragraph can be very long and will not break until I do it myself with the above possibilities. You see? The paragraph is still not broken because I didn't use space (x2) and enter.
 
