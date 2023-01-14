@@ -104,11 +104,19 @@ It's example of link to another file named "Reference".
 
 It's change in branch l18n-2.  
 
+It's change in main.  
+
 It's example of image from the folder.  
+
+This image shows icon of fox around blue ball.  
 
 ![SVG image from Internet](./images/Firefox.jpg "Firefox logo")  
 
-It's example of image from the Internet
+It's example of image from the Internet.
+
+This image shows black dog.  
+
+<!--Check the source of this image-->
 
 ![Pieseł](https://picsum.photos/id/237/200/300 "Pieseł")
 
