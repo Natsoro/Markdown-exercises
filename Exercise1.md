@@ -110,6 +110,8 @@ It's example of image from the Internet.
 
 It's black lablador on the image.
 
+<!--Wygooglować źródło obrazka-->
+
 ![Pieseł](https://picsum.photos/id/237/200/300 "Pieseł")
 
 <!-- Example of an image with hover text -->
