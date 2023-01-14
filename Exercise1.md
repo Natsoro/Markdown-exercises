@@ -102,6 +102,8 @@ It's example of link to another file named "Reference".
 
 # Images
 
+It's change in branch l18n-2.  
+
 It's change in main.  
 
 It's example of image from the folder.  
