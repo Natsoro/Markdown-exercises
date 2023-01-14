@@ -7,7 +7,7 @@ The exercises in Markdown<!-- omit in toc -->
 Table of Contens:
 
 - [How to do a paragraph?](#how-to-do-a-paragraph)
-  - [It is another paragraph](#it-is-another-paragraph)
+  - [It is another example of a paragraph](#it-is-another-example-of-a-paragraph)
   - [How to bold a paragraph?](#how-to-bold-a-paragraph)
   - [How to italic a paragraph?](#how-to-italic-a-paragraph)
   - [How to do strikethrough?](#how-to-do-strikethrough)
@@ -39,12 +39,15 @@ Press space twice and Enrter once to move a paragraph to the next line.
 
 <!-- Example of another paragraph -->
 
-## It is another paragraph
+## It is another example of a paragraph
 
-A paragraph can be very long and will not break until I do it myself with the above possibilities. You see? The paragraph is still not broken because I didn't use space (x2) and enter.
+Below it is another example of a paragraph.  
 
+Example: "Technical Writing jobs involve researching and writing technical content related to a variety of topics, such as engineering, computer software, medical devices, and other specialized technical fields. Technical Writers often work with engineers and scientists to create user manuals, specifications, and documents that clearly and concisely explain complex information. They may also work with marketing and sales teams to create product literature, web content, and other materials that help explain a company’s products and services."  
 
-Adding a blank line (enter twice) makes a new paragraph.
+A pragraph can be long and not broken until the above [method](#how-to-do-a-paragraph) is used.  
+
+Adding a blank line (press Enter twice) makes a new paragraph.
 Adding two spaces to the end of a line (plus one Enter) makes a new line without a new paragraph.  
 I can see it now.
 
