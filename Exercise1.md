@@ -188,21 +188,25 @@ RM said:
 
 # How to do bullet list?
 
+Write star and space to do bullet list.  
+
 This is bullet list:  
 * Milk  
 * Bread  
-* Eggs
+* Eggs  
 * Chocolate  
 
 <!-- Example of numbered list -->
 
 # How to do numbered list?
 
+Write nuber and dot to do numbered list.  
+
 This is numbered list:  
-1. Plan
-2. Buy
-3. Pack up
-4. Go on holidays
+1. Plan  
+2. Buy  
+3. Pack up  
+4. Go on holidays  
 
 <!-- Example of table -->
 
