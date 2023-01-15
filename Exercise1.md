@@ -20,7 +20,7 @@ Table of Contens:
 - [How to do external link?](#how-to-do-external-link)
 - [How to link to another file?](#how-to-link-to-another-file)
 - [Images](#images)
-  - [This is how to do hover text](#this-is-how-to-do-hover-text)
+  - [How to do hover text?](#how-to-do-hover-text)
 - [Equation](#equation)
 - [How to do a block of code in MD?](#how-to-do-a-block-of-code-in-md)
 - [How to do a code highlighting?](#how-to-do-a-code-highlighting)
@@ -105,37 +105,39 @@ Write "Webpage in localization" between square brackets and paste url (the addre
 
 It is example of link to another file named "Reference".
 
-[Reference](Reference.md)
+[Reference](Reference.md)  
 
-Write "Reference" quare brackets and name of the file with extension between round brackets to do link to another file.  
+Write "Reference" between square brackets and name of the file with extension between round brackets to do link to another file.  
 
 <!-- Example of an image -->
 
 # Images
 
-It's change in branch l18n-2.  
-
-It's change in main.  
-
-It's example of image from the folder.  
+It is example of image from the folder.  
 
 This image shows icon of fox around blue ball.  
 
+Write exclamation mark, square brackets with text about image and location of the image between round brackets.  
+To do hover text write text between quotation marks.  
 ![SVG image from Internet](./images/Firefox.jpg "Firefox logo")  
 
-It's example of image from the Internet.
+It is example of image from the Internet.
 
 This image shows black dog.  
 
 <!--Check the source of this image-->
 
-![Pieseł](https://picsum.photos/id/237/200/300 "Pieseł")
+When using an image from the internet instead of a file from computers folder, we use url.  
+
+![Dog](https://picsum.photos/id/237/200/300 "Black puppy")  
 
 <!-- Example of an image with hover text -->
 
-## This is how to do hover text
+## How to do hover text?
 
-![koteły](https://upload.wikimedia.org/wikipedia/commons/3/32/Collage_of_Six_Cats-03.JPG "Koteły")
+To do hover text write text between quotation marks.  
+
+![Cats](https://upload.wikimedia.org/wikipedia/commons/3/32/Collage_of_Six_Cats-03.JPG "Three cats")  
 
 <!-- Example of equation or inline code -->
 
@@ -147,7 +149,8 @@ This image shows black dog.
 
     2+2=4
 
-Another way to do block of code is adding 4 spaces.
+Write apostrophe three times before and after code. 
+Another way to do block of code is adding 4 spaces before code.  
 
 <!-- Example of a block of code -->
 
@@ -176,6 +179,8 @@ console.log("look ma`, no spaces");
 
 # How to do a quote?
 
+Write close angle bracket before quote to do one.  
+
 RM said:  
 > I live so I love.
 
@@ -183,25 +188,32 @@ RM said:
 
 # How to do bullet list?
 
+Write star and space to do bullet list.  
+
 This is bullet list:  
 * Milk  
 * Bread  
-* Eggs
+* Eggs  
 * Chocolate  
 
 <!-- Example of numbered list -->
 
 # How to do numbered list?
 
+Write nuber and dot to do numbered list.  
+
 This is numbered list:  
-1. Plan
-2. Buy
-3. Pack up
-4. Go on holidays
+1. Plan  
+2. Buy  
+3. Pack up  
+4. Go on holidays  
 
 <!-- Example of table -->
 
 # How to do a table?
+
+Use vertical bars and spaces to do columns in the table.  
+Use colons to adjust the text.
 
 | Column1   | Column 2    | Column 3  |
 | :-------- | :---------: | --------: |
