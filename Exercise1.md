@@ -61,8 +61,12 @@ __Lets see it in the code.__
 
 ## How to italic a paragraph?
 
-*To do italic i have to do the same but once.*  
-_See it in the code._
+*There are two ways to italic a paragraph:*  
+
+1. Write one star before the text and after it.  
+2. Write one underscore before the text and after it.  
+
+_Lets see it in the code._
 
 ## How to do strikethrough?
 
