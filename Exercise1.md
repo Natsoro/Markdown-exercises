@@ -1,5 +1,5 @@
 <!-- Example of title -->
-My exercises in Markdown<!-- omit in toc -->
+The exercises in Markdown<!-- omit in toc -->
 =======================
 
 <!-- Here comes the table of content -->
@@ -7,7 +7,7 @@ My exercises in Markdown<!-- omit in toc -->
 Table of Contens:
 
 - [How to do a paragraph?](#how-to-do-a-paragraph)
-  - [It's another paragraph](#its-another-paragraph)
+  - [It is another example of a paragraph](#it-is-another-example-of-a-paragraph)
   - [How to bold a paragraph?](#how-to-bold-a-paragraph)
   - [How to italic a paragraph?](#how-to-italic-a-paragraph)
   - [How to do strikethrough?](#how-to-do-strikethrough)
@@ -29,50 +29,57 @@ Table of Contens:
 - [How to do numbered list?](#how-to-do-numbered-list)
 - [How to do a table?](#how-to-do-a-table)
 
-
-
 <!-- Example of paragraph of text with line break -->
 
 # How to do a paragraph?
 
 This is a paragraph.  
 
-To move a paragraph to the second line, press space twice and Enter once. 
+Press space twice and Enrter once to move a paragraph to the next line.  
 
 <!-- Example of another paragraph -->
 
-## It's another paragraph
+## It is another example of a paragraph
 
-A paragraph can be very long and will not break until I do it myself with the above possibilities. You see? The paragraph is still not broken because I didn't use space (x2) and enter.
+Below it is another example of a paragraph.  
 
+Example: "Technical Writing jobs involve researching and writing technical content related to a variety of topics, such as engineering, computer software, medical devices, and other specialized technical fields. Technical Writers often work with engineers and scientists to create user manuals, specifications, and documents that clearly and concisely explain complex information. They may also work with marketing and sales teams to create product literature, web content, and other materials that help explain a company’s products and services."  
 
-Adding a blank line (enter twice) makes a new paragraph.
-Adding two spaces to the end of a line (plus one Enter) makes a new line without a new paragraph.  
-I can see it now.
+A pragraph can be long and not broken until the above [method](#how-to-do-a-paragraph) is used.  
 
 <!-- Example of bold -->
 
 ## How to bold a paragraph?
 
-**There are two ways to bold a paragraph.**  
-__See it in the code.__
+**There are two ways to bold a paragraph:**  
+1. Write two stars before the text and after it.  
+2. Write two underscores before the text and after it.  
+
+__Lets see it in the code.__  
 
 <!-- Example of italic  -->
 
 ## How to italic a paragraph?
 
-*To do italic i have to do the same but once.*  
-_See it in the code._
+*There are two ways to italic a paragraph:*  
+
+1. Write one star before the text and after it.  
+2. Write one underscore before the text and after it.  
+
+_Lets see it in the code._  
 
 ## How to do strikethrough?
 
-~~Strikethrough~~ 
+Write two tildes to strikethrough the text.  
+
+~~Strikethrough~~  
 
 <!-- Example of headers -->
 
 # How to do perfect headers?
 
  The hush and the space tells the MD that it's a header.  
+Write multiples of hush (from 2-6) before the text to create headlines.  
 
  ## Header No. 2
  ### Header No. 3
@@ -80,23 +87,27 @@ _See it in the code._
  ##### Header No. 5
  ###### Header No. 6  
  
-"Hush" x2 to 6. 
+"Hush" x2 to 6.  
 
 <!-- Example of external link -->
 
-# How to do external link? 
+# How to do external link?
 
-It's example of external link - Google search.
+It is example of external link - Google search.  
 
-[Webpage in localization](https://google.com/)
+[Webpage in localization](https://google.com/)  
+
+Write "Webpage in localization" between square brackets and paste url (the address of a web page) between round brackets to do external link.  
 
 <!-- Example of link to another file -->
 
 # How to link to another file?
 
-It's example of link to another file named "Reference".
+It is example of link to another file named "Reference".
 
 [Reference](Reference.md)
+
+Write "Reference" quare brackets and name of the file with extension between round brackets to do link to another file.  
 
 <!-- Example of an image -->
 
