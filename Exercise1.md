@@ -51,8 +51,11 @@ A pragraph can be long and not broken until the above [method](#how-to-do-a-para
 
 ## How to bold a paragraph?
 
-**There are two ways to bold a paragraph.**  
-__See it in the code.__
+**There are two ways to bold a paragraph:**  
+1. Write two stars before the text and after it.  
+2. Write two underscores before the text and after it.  
+
+__Lets see it in the code.__  
 
 <!-- Example of italic  -->
 
