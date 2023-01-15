@@ -127,6 +127,8 @@ This image shows black dog.
 
 <!--Check the source of this image-->
 
+When using an image from the internet instead of a file from computers folder, we use url.  
+
 ![Dog](https://picsum.photos/id/237/200/300 "Black puppy")  
 
 <!-- Example of an image with hover text -->
