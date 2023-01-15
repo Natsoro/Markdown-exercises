@@ -105,7 +105,7 @@ Write "Webpage in localization" between square brackets and paste url (the addre
 
 It is example of link to another file named "Reference".
 
-[Reference](Reference.md)
+[Reference](Reference.md)  
 
 Write "Reference" between square brackets and name of the file with extension between round brackets to do link to another file.  
 
@@ -113,29 +113,27 @@ Write "Reference" between square brackets and name of the file with extension be
 
 # Images
 
-It's change in branch l18n-2.  
-
-It's change in main.  
-
-It's example of image from the folder.  
+It is example of image from the folder.  
 
 This image shows icon of fox around blue ball.  
 
+Write exclamation mark, square brackets with text about image and location of the image between round brackets.  
+You can add a description that appears when hovering over an image in quotation marks.  
 ![SVG image from Internet](./images/Firefox.jpg "Firefox logo")  
 
-It's example of image from the Internet.
+It is example of image from the Internet.
 
 This image shows black dog.  
 
 <!--Check the source of this image-->
 
-![Pieseł](https://picsum.photos/id/237/200/300 "Pieseł")
+![Dog](https://picsum.photos/id/237/200/300 "Black puppy")  
 
 <!-- Example of an image with hover text -->
 
 ## This is how to do hover text
 
-![koteły](https://upload.wikimedia.org/wikipedia/commons/3/32/Collage_of_Six_Cats-03.JPG "Koteły")
+![Cats](https://upload.wikimedia.org/wikipedia/commons/3/32/Collage_of_Six_Cats-03.JPG "Three cats")  
 
 <!-- Example of equation or inline code -->
 
