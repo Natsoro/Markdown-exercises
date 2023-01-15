@@ -47,10 +47,6 @@ Example: "Technical Writing jobs involve researching and writing technical conte
 
 A pragraph can be long and not broken until the above [method](#how-to-do-a-paragraph) is used.  
 
-Adding a blank line (press Enter twice) makes a new paragraph.
-Adding two spaces to the end of a line (plus one Enter) makes a new line without a new paragraph.  
-I can see it now.
-
 <!-- Example of bold -->
 
 ## How to bold a paragraph?
