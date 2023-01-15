@@ -107,6 +107,8 @@ It is example of link to another file named "Reference".
 
 [Reference](Reference.md)
 
+Write "Reference" quare brackets and name of the file with extension between round brackets to do link to another file.  
+
 <!-- Example of an image -->
 
 # Images
