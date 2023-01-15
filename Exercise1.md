@@ -149,7 +149,8 @@ To do hover text write text between quotation marks.
 
     2+2=4
 
-Another way to do block of code is adding 4 spaces.
+Write apostrophe three times before and after code. 
+Another way to do block of code is adding 4 spaces before code.  
 
 <!-- Example of a block of code -->
 
@@ -177,6 +178,8 @@ console.log("look ma`, no spaces");
 <!-- Example of quote -->
 
 # How to do a quote?
+
+Write close angle bracket before quote to do one.  
 
 RM said:  
 > I live so I love.
