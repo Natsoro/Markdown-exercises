@@ -212,6 +212,9 @@ This is numbered list:
 
 # How to do a table?
 
+Use vertical bars and spaces to do columns in the table.  
+Use colons to adjust the text.
+
 | Column1   | Column 2    | Column 3  |
 | :-------- | :---------: | --------: |
 | Row 1     | Row 2       | Row 3     |
