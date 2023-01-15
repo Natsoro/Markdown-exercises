@@ -66,9 +66,11 @@ __Lets see it in the code.__
 1. Write one star before the text and after it.  
 2. Write one underscore before the text and after it.  
 
-_Lets see it in the code._
+_Lets see it in the code._  
 
 ## How to do strikethrough?
+
+Write two tildes to strikethrough the text.  
 
 ~~Strikethrough~~ 
 
