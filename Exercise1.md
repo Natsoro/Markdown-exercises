@@ -97,13 +97,13 @@ It is example of external link - Google search.
 
 [Webpage in localization](https://google.com/)  
 
-Write "Webpage in localization" between square brackets and paste url (the address of a web page) between round brackets.  
+Write "Webpage in localization" between square brackets and paste url (the address of a web page) between round brackets to do external link.  
 
 <!-- Example of link to another file -->
 
 # How to link to another file?
 
-It's example of link to another file named "Reference".
+It is example of link to another file named "Reference".
 
 [Reference](Reference.md)
 
