@@ -137,7 +137,7 @@ When using an image from the internet instead of a file from computers folder, w
 
 To do hover text write text between quotation marks.  
 
-![Cats](https://upload.wikimedia.org/wikipedia/commons/3/32/Collage_of_Six_Cats-03.JPG "Three cats")  
+![Cats](https://upload.wikimedia.org/wikipedia/commons/3/32/Collage_of_Six_Cats-03.JPG "Six cats")  
 
 <!-- Example of equation or inline code -->
 
