@@ -20,7 +20,7 @@ Table of Contens:
 - [How to do external link?](#how-to-do-external-link)
 - [How to link to another file?](#how-to-link-to-another-file)
 - [Images](#images)
-  - [This is how to do hover text](#this-is-how-to-do-hover-text)
+  - [How to do hover text?](#how-to-do-hover-text)
 - [Equation](#equation)
 - [How to do a block of code in MD?](#how-to-do-a-block-of-code-in-md)
 - [How to do a code highlighting?](#how-to-do-a-code-highlighting)
@@ -118,7 +118,7 @@ It is example of image from the folder.
 This image shows icon of fox around blue ball.  
 
 Write exclamation mark, square brackets with text about image and location of the image between round brackets.  
-You can add a description that appears when hovering over an image in quotation marks.  
+To do hover text write text between quotation marks.  
 ![SVG image from Internet](./images/Firefox.jpg "Firefox logo")  
 
 It is example of image from the Internet.
@@ -133,7 +133,9 @@ When using an image from the internet instead of a file from computers folder, w
 
 <!-- Example of an image with hover text -->
 
-## This is how to do hover text
+## How to do hover text?
+
+To do hover text write text between quotation marks.  
 
 ![Cats](https://upload.wikimedia.org/wikipedia/commons/3/32/Collage_of_Six_Cats-03.JPG "Three cats")  
 
