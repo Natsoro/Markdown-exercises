@@ -72,13 +72,14 @@ _Lets see it in the code._
 
 Write two tildes to strikethrough the text.  
 
-~~Strikethrough~~ 
+~~Strikethrough~~  
 
 <!-- Example of headers -->
 
 # How to do perfect headers?
 
  The hush and the space tells the MD that it's a header.  
+Write multiples of hush (from 2-6) before the text to create headlines.  
 
  ## Header No. 2
  ### Header No. 3
@@ -86,7 +87,7 @@ Write two tildes to strikethrough the text.
  ##### Header No. 5
  ###### Header No. 6  
  
-"Hush" x2 to 6. 
+"Hush" x2 to 6.  
 
 <!-- Example of external link -->
 
