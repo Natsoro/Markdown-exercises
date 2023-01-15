@@ -91,11 +91,13 @@ Write multiples of hush (from 2-6) before the text to create headlines.
 
 <!-- Example of external link -->
 
-# How to do external link? 
+# How to do external link?
 
-It's example of external link - Google search.
+It is example of external link - Google search.  
 
-[Webpage in localization](https://google.com/)
+[Webpage in localization](https://google.com/)  
+
+Write "Webpage in localization" between square brackets and paste url (the address of a web page) between round brackets.  
 
 <!-- Example of link to another file -->
 
